@@ -1,0 +1,3 @@
+install: invalid option -- 'x'
+Try 'install --help' for more information.
+./test.sh: line 5: test: too many arguments

@@ -1,0 +1,6 @@
+* named property and indexed property for object template
+* improve try catch and re-throw
+* heap statistics
+* cpu profiler
+* heap profiler
+* stack trace
